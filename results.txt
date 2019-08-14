@@ -1,0 +1,53 @@
+------------------ Results for Table 1 ------------------------
+
+Iterations: 5000
+Learning rate: 0.05
+Counter :  1013 528 320 1047 105 155 1068 363 191 210
+Variance:139158
+
+Iterations: 10000
+Learning rate: 0.05
+Counter :  79 176 696 862 364 1659 5134 525 310 195
+Variance:2091716
+
+Iterations: 20000
+Learning rate: 0.05
+Counter :  9258 1256 298 2775 909 631 3977 446 158 292
+Variance:7242764
+
+Iterations: 40000
+Learning rate: 0.05
+Counter :  467 25635 591 2997 1326 181 643 1686 280 6194
+Variance:55019372
+
+Iterations: 80000
+Learning rate: 0.05
+Counter :  2390 7216 1057 54891 2241 8798 2160 329 690 228
+Variance:251965069
+
+------------------ Results for Table 2 ------------------------
+
+Iterations: 20000
+Learning rate: 0.5
+Counter :  2112 2026 3023 104 2500 546 1637 1979 2564 3509
+Variance:974606
+
+Iterations: 20000
+Learning rate: 0.05
+Counter :  333 358 227 679 793 9787 443 3093 4171 116
+Variance:8433943
+
+Iterations: 20000
+Learning rate: 0.005
+Counter :  451 4249 2265 4856 2806 763 1058 1433 958 1161
+Variance:2086270
+
+Iterations: 20000
+Learning rate: 0.0005
+Counter :  1326 2554 2496 1471 2201 2019 2063 2941 1276 1653
+Variance:286184
+
+Iterations: 20000
+Learning rate: 0.0005
+Counter :  1735 2140 2699 1498 2404 1830 1838 2883 1304 1669
+Variance:242245
